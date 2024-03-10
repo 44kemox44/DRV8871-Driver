@@ -1,4 +1,4 @@
-#include <DRV8871.h>
+#include <drv8871.h>
 
 // Define motor pins
 #define MOTOR1_IN1 10
